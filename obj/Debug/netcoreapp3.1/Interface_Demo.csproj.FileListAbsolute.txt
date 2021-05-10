@@ -1,0 +1,13 @@
+E:\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.exe
+E:\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.deps.json
+E:\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.runtimeconfig.json
+E:\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.runtimeconfig.dev.json
+E:\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.dll
+E:\Interface_Demo\bin\Debug\netcoreapp3.1\Interface_Demo.pdb
+E:\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.csprojAssemblyReference.cache
+E:\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.AssemblyInfoInputs.cache
+E:\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.AssemblyInfo.cs
+E:\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.csproj.CoreCompileInputs.cache
+E:\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.dll
+E:\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.pdb
+E:\Interface_Demo\obj\Debug\netcoreapp3.1\Interface_Demo.genruntimeconfig.cache
